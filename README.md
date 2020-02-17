@@ -1,4 +1,4 @@
-<h1 align="center">
+<h1 align="center" style="margin: auto;">
 <img alt="" title="" src="https://cdn.icon-icons.com/icons2/572/PNG/512/1457055658_App_Development_icon-icons.com_54712.png" width="70" />
 Maratona Dev
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
