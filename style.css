@@ -42,6 +42,7 @@ header .top-logo {
     grid-template-columns: 1fr 1fr;
     align-items: center;
     text-align: right;
+    margin-left: 70px;
 }
 
 header button {
@@ -117,6 +118,7 @@ form button {
 
 form input {
     background-color: transparent;
+    color: white;
 }
 
 form input::placeholder {
