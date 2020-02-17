@@ -1,6 +1,6 @@
 <h1 align="center" >
 <img alt="" title="" src="https://cdn.icon-icons.com/icons2/572/PNG/512/1457055658_App_Development_icon-icons.com_54712.png" width="70" />
-<span style="margin-bottom: 40px;">Maratona Dev</span>
+Maratona Dev
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
 </h1>
 

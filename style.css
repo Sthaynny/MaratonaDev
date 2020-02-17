@@ -32,19 +32,6 @@ main,
 
 /*HEADER*/
 
-header .text-logo {
-    margin-top: 70px;
-    font-size: 70px;
-}
-
-header .top-logo {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
-    align-items: center;
-    text-align: right;
-    margin-left: 70px;
-}
-
 header button {
     margin-top: 8px;
     padding: 8px 16px;
@@ -79,10 +66,7 @@ h2 {
 }
 
 .logo {
-    width: 60px;
-}
-
-.top-logo {
+    width: 150px;
     margin: 70px 0px;
 }
 
