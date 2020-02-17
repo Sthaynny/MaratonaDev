@@ -1,4 +1,4 @@
-<h1 align="center" style="margin: auto;">
+<h1 align="center" style="margin: 0 auto;">
 <img alt="" title="" src="https://cdn.icon-icons.com/icons2/572/PNG/512/1457055658_App_Development_icon-icons.com_54712.png" width="70" />
 Maratona Dev
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
@@ -13,7 +13,7 @@ Maratona Dev
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/MaratonaDev">
   <!-- trocar: 'Sthaynny/<<REpositorio>>' pelo caminho do seu respositório -->
 
-  <a href="https://github.com/Sthaynny/conversor_de_moeda-em-flutter/commits/master">
+  <a href="https://github.com/Sthaynny/MaratonaDev/commits/master">
   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/MaratonaDev">
      <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
