@@ -48,7 +48,7 @@ Technologies used in the development of the project:
 
 ## 💻 Projeto
 
-Projeto para aprendizado que viza a converção de moeda real, euro e dolar utilizando uma api.
+Projeto consiste em um pagina para doação de sangue. 
 
 ## 🤔 Como contribuir
 
