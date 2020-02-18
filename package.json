@@ -1,0 +1,27 @@
+{
+    "name": "MaratonaDev",
+    "version": "1.0.0",
+    "description": "<h1 align=\"center\" >\r <img alt=\"\" title=\"\" src=\"https://cdn.icon-icons.com/icons2/572/PNG/512/1457055658_App_Development_icon-icons.com_54712.png\" width=\"70\" />\r Maratona Dev\r   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->\r </h1>",
+    "main": "scripts.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "nodemon server.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Sthaynny/MaratonaDev.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Sthaynny/MaratonaDev/issues"
+    },
+    "homepage": "https://github.com/Sthaynny/MaratonaDev#readme",
+    "dependencies": {
+        "express": "^4.17.1",
+        "nodemon": "^2.0.2",
+        "nunjucks": "^3.2.0",
+        "pg": "^7.18.1"
+    }
+}

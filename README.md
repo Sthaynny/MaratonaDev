@@ -47,6 +47,9 @@ Technologies used in the development of the project:
 - [CSS](https://devdocs.io/css/)
 - [JavaScript](https://devdocs.io/javascript/)
 - [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer)
+- [SQL](https://docs.oracle.com/cd/E12151_01/index.htm)
+- [Postgress](https://www.postgresql.org/)
+- [Postbird](https://www.electronjs.org/apps/postbird)
 - [Github](https://github.com)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 
